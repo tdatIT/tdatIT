@@ -1,11 +1,5 @@
 <div align="center">"I'm a backend developer, striving to achieve new milestones and create something meaningful"</div><br>
 <div align="center">📧 Email: tdat.it2k2@gmail.com - 🌐 Portfolio: https://tdatit.github.io/portfolio-web </div>
-
-<br>
-<div align="center">
- <a href="https://www.facebook.com/Datonephu/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/tdatit2k2/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-</div>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tdatit&show_icons=true&theme=radical" alt="tdatIT"/>
