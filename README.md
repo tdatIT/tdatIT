@@ -2,7 +2,7 @@
 <div align="center">📧 Email: tdat.it2k2@gmail.com - 🌐 Portfolio: https://tdatit.github.io/portfolio-web </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tdatit&show_icons=true&theme=radical" alt="tdatIT"/>
+  ![GitHub Card](https://kayan-github-profile-projects-featu.vercel.app/api?username=tdatit&amp;theme=tokyonight&amp;hide_border=true)
 </div>
 <br>
 
